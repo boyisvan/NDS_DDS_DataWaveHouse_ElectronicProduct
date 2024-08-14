@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07FCD6C9-F469-4BB4-856A-5863F4917109}|ElectronicDataApp\\ElectronicDataApp.csproj|c:\\users\\ducva\\source\\repos\\electronicdataapp\\electronicdataapp\\importdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FCD6C9-F469-4BB4-856A-5863F4917109}|ElectronicDataApp\\ElectronicDataApp.csproj|solutionrelative:electronicdataapp\\importdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FCD6C9-F469-4BB4-856A-5863F4917109}|ElectronicDataApp\\ElectronicDataApp.csproj|c:\\users\\ducva\\source\\repos\\electronicdataapp\\electronicdataapp\\importdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07FCD6C9-F469-4BB4-856A-5863F4917109}|ElectronicDataApp\\ElectronicDataApp.csproj|solutionrelative:electronicdataapp\\importdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FCD6C9-F469-4BB4-856A-5863F4917109}|ElectronicDataApp\\ElectronicDataApp.csproj|c:\\users\\ducva\\source\\repos\\electronicdataapp\\electronicdataapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FCD6C9-F469-4BB4-856A-5863F4917109}|ElectronicDataApp\\ElectronicDataApp.csproj|solutionrelative:electronicdataapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FCD6C9-F469-4BB4-856A-5863F4917109}|ElectronicDataApp\\ElectronicDataApp.csproj|C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\electronicdataapp\\backuprestoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07FCD6C9-F469-4BB4-856A-5863F4917109}|ElectronicDataApp\\ElectronicDataApp.csproj|solutionrelative:electronicdataapp\\backuprestoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FCD6C9-F469-4BB4-856A-5863F4917109}|ElectronicDataApp\\ElectronicDataApp.csproj|c:\\users\\ducva\\source\\repos\\electronicdataapp\\electronicdataapp\\backuprestoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FCD6C9-F469-4BB4-856A-5863F4917109}|ElectronicDataApp\\ElectronicDataApp.csproj|solutionrelative:electronicdataapp\\backuprestoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FCD6C9-F469-4BB4-856A-5863F4917109}|ElectronicDataApp\\ElectronicDataApp.csproj|c:\\users\\ducva\\source\\repos\\electronicdataapp\\electronicdataapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07FCD6C9-F469-4BB4-856A-5863F4917109}|ElectronicDataApp\\ElectronicDataApp.csproj|solutionrelative:electronicdataapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FCD6C9-F469-4BB4-856A-5863F4917109}|ElectronicDataApp\\ElectronicDataApp.csproj|c:\\users\\ducva\\source\\repos\\electronicdataapp\\electronicdataapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FCD6C9-F469-4BB4-856A-5863F4917109}|ElectronicDataApp\\ElectronicDataApp.csproj|solutionrelative:electronicdataapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 170,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\ElectronicDataApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "ElectronicDataApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\ElectronicDataApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "ElectronicDataApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:40:08.005Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImportData.cs",
+              "DocumentMoniker": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\ElectronicDataApp\\ImportData.cs",
+              "RelativeDocumentMoniker": "ElectronicDataApp\\ImportData.cs",
+              "ToolTip": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\ElectronicDataApp\\ImportData.cs",
+              "RelativeToolTip": "ElectronicDataApp\\ImportData.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAADgv1cAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:17:12.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImportData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\ElectronicDataApp\\ImportData.cs",
+              "RelativeDocumentMoniker": "ElectronicDataApp\\ImportData.cs",
+              "ToolTip": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\ElectronicDataApp\\ImportData.cs [Design]",
+              "RelativeToolTip": "ElectronicDataApp\\ImportData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:20:29.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BackupRestoreForm.cs",
+              "DocumentMoniker": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\ElectronicDataApp\\BackupRestoreForm.cs",
+              "RelativeDocumentMoniker": "ElectronicDataApp\\BackupRestoreForm.cs",
+              "ToolTip": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\ElectronicDataApp\\BackupRestoreForm.cs",
+              "RelativeToolTip": "ElectronicDataApp\\BackupRestoreForm.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAEwEIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:56:18.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BackupRestoreForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\ElectronicDataApp\\BackupRestoreForm.cs",
+              "RelativeDocumentMoniker": "ElectronicDataApp\\BackupRestoreForm.cs",
+              "ToolTip": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\ElectronicDataApp\\BackupRestoreForm.cs [Design]",
+              "RelativeToolTip": "ElectronicDataApp\\BackupRestoreForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:55:10.645Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\ElectronicDataApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "ElectronicDataApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\ElectronicDataApp\\MainForm.cs",
+              "RelativeToolTip": "ElectronicDataApp\\MainForm.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwFsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:44:21.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\ElectronicDataApp\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ElectronicDataApp\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ducva\\source\\repos\\ElectronicDataApp\\ElectronicDataApp\\MainForm.Designer.cs",
+              "RelativeToolTip": "ElectronicDataApp\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T21:55:33.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
